@@ -1,0 +1,5 @@
+Admin username: musajawo
+Password: musajawo
+
+database name:voting_db
+  
